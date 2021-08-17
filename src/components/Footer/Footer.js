@@ -23,7 +23,7 @@ const Footer = () => {
           <Slogan>Coffie <i class="fa fa-coffee" aria-hidden="true"></i> with Code</Slogan>
         </CompanyContainer>
         <SocialContainer>
-        <SocialIcons href='https://github.com/govindkumawat'>
+        <SocialIcons href='https://github.com/govindkumwat'>
         <AiFillGithub size='3rem' />
       </SocialIcons>
 
